@@ -96,9 +96,9 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-col: "#09DADE"
+navbar-text-col: "#000000"
+navbar-border-col: "##FAFAFA"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
@@ -131,7 +131,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "G-X7HL1NLJ8X"
 
 # Google Tag Manager ID
 #gtm: ""
