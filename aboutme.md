@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Get to Know Nicole
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! My name is Nicole Reinke and I'm going to Lambda School to become a data scientist. Some non-tech things about me include:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm a mom of 1
+- Cat person
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+So, I started out working in retail and realized that wasn't for me. I was looking into learning code (mainly because I saw it come up on my feed) to expand my knowledge into something else. Now aside from my story, thank you for checking out my blog and you can reach out to me on Linked In to let me know your feedback if you want. Stay Amazing :) 
